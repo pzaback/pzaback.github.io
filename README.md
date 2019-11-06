@@ -1,3 +1,5 @@
+I'm using the Minimal Mistakes Jekyll theme as the jumping off for my personal site/portfolio, so for now I'm just going to leave this README as is from the source repo.
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
